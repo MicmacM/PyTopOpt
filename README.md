@@ -29,7 +29,7 @@ Due to the problem being discrete instead of continuous (the equation works for 
 In order to avoid this pattern, a filter is applied that prevents it's formation.
 
 ## Results
-I tested my code on the usual exemple of the cantilever 2D beam, using Q4 quadrilateral elements. The result is the following :
+I tested my code on the usual exemple of the cantilever 2D beam, using Q4 quadrilateral elements. The result is the following for a $360\times120$ resolution :
 
 ![Cantilever360x120](assets/Cantilever360x120.png)
 
