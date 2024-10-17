@@ -11,7 +11,7 @@ Given a volume $V = H\times W$, a target fraction of the volume (ex : $\alpha = 
 Namely the problem can be described by 
 
 <div align="center">
-  <img src="assets/problemtosolve.png.png" alt="Problem to solve">
+  <img src="assets/problemtosolve.png" alt="Problem to solve">
 </div>
 
 where $U$ is the displacement fields and $K$ is the $\textbf{global}$ displacement matrix
